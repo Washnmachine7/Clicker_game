@@ -1,0 +1,27 @@
+#imageUg{
+    background-color: #000000;
+}
+#nameUg{
+    background-color: #00ff00;
+}
+#priceUg{
+    background-color: #0000ff;
+}
+#Shop{
+    position: relative;
+    float: right;
+    width: 25%;
+}
+#The_Cookie{
+    width: 50%;
+    float: left;
+}
+#top{
+    float: top;
+}
+#AnameUg{
+    background-color: #00ff00;
+}
+#ApriceUg{
+    background-color: #0000ff;
+}
